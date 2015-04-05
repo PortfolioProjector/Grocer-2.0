@@ -13,6 +13,10 @@ The goal of this application is to help familiarize the coders with basic aspect
 - Android async tasks
 - Restless api design.
 
+
+Design:
+     Database: 
+
 Design:
      Database: The following tables are required within the database but may need to be normalized later.
 Users, purchases. 
